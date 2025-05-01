@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi I'm Madoka Sasaki
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmayann&theme=shadow_blue)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmayann&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+### frontend
 
-<!--
-**mmayann/mmayann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,java)](https://skillicons.dev)
 
-Here are some ideas to get you started:
+### backend
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=py,fastapi,flask,nodejs,php,postgres,mysql)](https://skillicons.dev)
+
+### tools:
+
+[![My Skills](https://skillicons.dev/icons?i=docker,figma,firebase,git,github,vitest,vscode,)](https://skillicons.dev)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mmayann)](https://github.com/mmayann/github-profile-trophy)
